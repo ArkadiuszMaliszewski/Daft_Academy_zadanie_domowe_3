@@ -1,3 +1,5 @@
-import timer from './timer';
+import './stylesheets/main.scss';
 
-timer();
+import initClock from './clock';
+
+initClock();
